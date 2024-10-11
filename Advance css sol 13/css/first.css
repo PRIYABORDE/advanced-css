@@ -1,0 +1,12 @@
+button{
+    font-size: 25px;
+    border: none;
+    padding: 5px 20px;
+    color:white;
+}
+#primarybtn{
+    background-color: #00b7ff;
+}
+#secondarybtn{
+    background-color: #6c757d;
+}
